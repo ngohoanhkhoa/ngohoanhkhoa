@@ -1,5 +1,9 @@
 <h3 align="center">Data Scientist. Research in Machine Learning, especially Deep Learning. Software and Mobile Development.</h3>
 
+👨🏼‍🎓 With a Master's degree in Computer Science and a Doctorate specializing in Deep Learning from Paris-Saclay University, I have deep knowledge and expertise in AI. 
+⛵️ My journey has led me to collaborate on numerous cutting-edge R&D projects, where I craft advanced generative models (GANs, VAEs, Diffusion models) for tasks like data augmentation, particularly focused on NLP, tabular and time-series data. 
+🎯 My passion lies in harnessing the power of deep learning to push the boundaries of artificial intelligence.
+
 - 💬 My CV: **https://www.ngohoanhkhoa.info**
 - 👨‍💻 All of my projects: [https://ngohoanhkhoaprojects.blogspot.com](https://ngohoanhkhoaprojects.blogspot.com)
 - 📝 My deep learning notebook: [https://deepnote.com/@ngohoanhkhoa](https://deepnote.com/@ngohoanhkhoa)
