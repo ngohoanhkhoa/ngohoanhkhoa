@@ -6,7 +6,7 @@
 
 - 💬 My CV: **https://www.ngohoanhkhoa.info**
 - 👨‍💻 All of my projects: [https://ngohoanhkhoaprojects.blogspot.com](https://ngohoanhkhoaprojects.blogspot.com)
-- ⌨️ Professional github: [https://github.com/anhkhoangoho]
+- ⌨️ Professional github: [https://github.com/anhkhoangoho](https://github.com/anhkhoangoho)
 - 📫 Reach me: **ngohoanhkhoa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
