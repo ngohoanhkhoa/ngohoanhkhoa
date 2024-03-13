@@ -6,7 +6,8 @@
 
 - 💬 My CV: **https://www.ngohoanhkhoa.info**
 - 👨‍💻 All of my projects: [https://ngohoanhkhoaprojects.blogspot.com](https://ngohoanhkhoaprojects.blogspot.com)
-- 📝 My deep learning notebook: [https://deepnote.com/@ngohoanhkhoa](https://deepnote.com/@ngohoanhkhoa)
+- ⌨️ Professional github: [https://github.com/anhkhoangoho]
+# - 📝 My deep learning notebook: [https://deepnote.com/@ngohoanhkhoa](https://deepnote.com/@ngohoanhkhoa)
 - 📫 Reach me: **ngohoanhkhoa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
